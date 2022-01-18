@@ -43,3 +43,10 @@ The row below, and the next series of dots from left-to right (columns 2-11)tran
 
 ![BIP0039 - 3x11_SAFE02](https://user-images.githubusercontent.com/97874862/149903332-3bb9d049-8d69-414f-b4f7-37d79d16845f.png)
 ###### An example of a completed backup on the CipherTag
+
+## DISCLAIMER
+###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
+<br/>
+© CipherSechs 2022<br/>
+CipherTag™, CipherSechs™ 6 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
+Patent Pending
