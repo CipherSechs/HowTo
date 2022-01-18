@@ -43,10 +43,12 @@ The row below, and the next series of dots from left-to right (columns 2-11)tran
 
 ![BIP0039 - 3x11_SAFE02](https://user-images.githubusercontent.com/97874862/149903332-3bb9d049-8d69-414f-b4f7-37d79d16845f.png)
 ###### An example of a completed backup on the CipherTag
-<br/>
+
+
 ## Description - 3x11 OPS
+
 As mentioned above:
-There is a grid of 3 rows of 11(ergo 3x11) columns.  There are 6 of these grids on the CipherTag™ and 12 girds on theCipherSechs™ 12 Word Plates.
+There is a grid of 3 rows of 11(ergo 3x11) columns.  There are 6 of these grids on the CipherTag™ and 12 grids on the CipherSechs™ 12 Word Plates.
 These are used to permanently mark your seed phrase using the process below.  To mark the seeds you can use a manual or an automatic center punch.
 <br/><br/>
 However.. this method introduces "OpSec"; operational security - a security methodology to prevent sensitive information from getting into the wrong hands.
