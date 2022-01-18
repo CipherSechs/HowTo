@@ -43,7 +43,7 @@ The row below, and the next series of dots from left-to right (columns 2-11)tran
 
 ![BIP0039 - 3x11_SAFE02](https://user-images.githubusercontent.com/97874862/149903332-3bb9d049-8d69-414f-b4f7-37d79d16845f.png)
 ###### An example of a completed backup on the CipherTag
-
+<br/><br/>
 
 ## Description - 3x11 OPS
 
@@ -62,14 +62,18 @@ Instead of having the 4 digit number for each seed word punched on a displayed n
 ![RENDER - Plate_3x11OPSa](https://user-images.githubusercontent.com/97874862/149796749-d8183334-6476-4d9a-8d5f-4b48c856548e.png)
 <br/><br/><br/>
 ## USAGE
-In this case, an owner of the seed word may decide to shift the **cipher**; ie the punched/marked holes to the right 'x' amount of spaces, thereby onfuscating the actual seed word stored.  Only the owner of the wallet would know the correct 'x' amount to shift the pattern back to - to reference the correct seed word.  The cipher can be shifted by the **whole** word, or via **one digit**.  See below photo for an illustrative explanation.
+In this case, an owner of the seed word may decide to shift the **cipher**; ie the punched/marked holes to the right 'x' amount of spaces, thereby onfuscating the actual seed word stored.  Only the owner of the wallet would know the correct 'x' amount to shift the pattern back to - to reference the correct seed word.  The cipher can be shifted by the **whole** word, or via **one digit**.<br/>
+See below photo for an illustrative explanation.
 <br/>
 ![BIP0039 - CipherShift01](https://user-images.githubusercontent.com/97874862/149953746-16514cf7-2e18-4410-8336-1159db226fdd.png)
+###### Cipher shifted incrementally by WHOLE word
 
-
+![BIP0039 - CipherShift02](https://user-images.githubusercontent.com/97874862/149953768-af4cb8da-2dce-4a2b-8540-c12cd8106d81.png)
+###### Cipher shifted incrementally by DIGIT only
+<br/><br/>
 ## DISCLAIMER
 ###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
 <br/>
 © CipherSechs 2022<br/>
-CipherTag™, CipherSechs™ 6 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
+CipherTag™, CipherSechs™ 6 Word Plate™, CipherSechs™ 12 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
 Patent Pending
