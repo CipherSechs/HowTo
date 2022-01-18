@@ -1,5 +1,5 @@
-# HowTo
-**HowTo backup your 12, 18 or 24 word SEED PHRASE using the CipherTag and 6 Word Plates.<br/>
+# HowTo 
+**HowTo backup your 12, 18 or 24 word SEED PHRASE using the CipherTag and 12 Word Plates.<br/>
 Both products can be used to permanently backup your BIP0039 and/or SLIP0039 seed phrases**<br/>
 <br/>
 <br/>
@@ -15,8 +15,8 @@ https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 <br/>
 <br/>
 
-## DESCRIPTION
-There is a grid of 3 rows of 11(3x11) columns.  There are 6 of these grids on the CipherTag™/CipherSechs™ 6 Word Plates.
+## Description - 3x11
+There is a grid of 3 rows of 11(ergo 3x11) columns.  There are 6 of these grids on the CipherTag™ and 12 girds on theCipherSechs™ 12 Word Plates.
 These are used to permanently mark your seed phrase using the process below.  To mark the seeds you can use a manual or an automatic center punch.
 
 ###### CipherTag 3x11
@@ -43,6 +43,26 @@ The row below, and the next series of dots from left-to right (columns 2-11)tran
 
 ![BIP0039 - 3x11_SAFE02](https://user-images.githubusercontent.com/97874862/149903332-3bb9d049-8d69-414f-b4f7-37d79d16845f.png)
 ###### An example of a completed backup on the CipherTag
+
+## Description - 3x11 OPS
+As mentioned above:
+There is a grid of 3 rows of 11(ergo 3x11) columns.  There are 6 of these grids on the CipherTag™ and 12 girds on theCipherSechs™ 12 Word Plates.
+These are used to permanently mark your seed phrase using the process below.  To mark the seeds you can use a manual or an automatic center punch.
+<br/><br/>
+However.. this method introduces "OpSec"; operational security - a security methodology to prevent sensitive information from getting into the wrong hands.
+Instead of having the 4 digit number for each seed word punched on a displayed number on the 3x11 grid, we have opted to allow the owner to obfuscate the process/methodology of **how** the seed word is stored.
+<br/><br/>
+In this case, an owner of the seed word may decide to shift the **ciper**; ie the punched/marked holes to the right 'x' amount of spaces, thereby onfuscating the actual seed word stored.  Only the owner of the wallet would know the correct 'x' amount to shift the pattern back to - to reference the correct seed word.  The cipher can be shifted by the **whole** word, or via **one digit**.  See below photo for an illustrative explanation.
+<br/>
+
+###### CipherTag 3x11 OPS
+![RENDER - Tag_3x11OPS](https://user-images.githubusercontent.com/97874862/149795891-a9bb6a87-a526-4ef6-969c-fc5ca4422c16.png)
+
+###### CipherSechs 3x11 OPS 12 Word Plate
+
+![RENDER - Plate_3x11OPSa](https://user-images.githubusercontent.com/97874862/149796749-d8183334-6476-4d9a-8d5f-4b48c856548e.png)
+
+
 
 ## DISCLAIMER
 ###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
