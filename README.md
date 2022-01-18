@@ -1,6 +1,6 @@
 # HowTo
 <br/>
-**HowTo** backup your 12, 18 or 24 word SEED PHRASE using the CipherTag and 6 Word Plates.<br/>
+HowTo backup your 12, 18 or 24 word SEED PHRASE using the CipherTag and 6 Word Plates.<br/>
 Both products can be used to permanently backup your BIP039 and/or SLIP0039 seed phrases**<br/>
 <br/>
 <br/>
@@ -16,13 +16,23 @@ https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 <br/>
 <br/>
 
-**INSTRUCTIONS AND USAGE : 3x11**
-
+## DESCRIPTION
+<br/>
 There is a grid of 3 rows of 11(3x11) columns.  There are 6 of these grids on the CipherTag™/CipherSechs™ 6 Word Plates.
-These are used to permanently mark your seed phrase using the process below.
+These are used to permanently mark your seed phrase using the process below.  To mark the seeds you can use a manual or an automatic center punch.
 
-Refer to Figure 1.
+###### CipherTag 3x11
+![RENDER - Tag_3x11](https://user-images.githubusercontent.com/97874862/149795773-c98eccc4-ddb4-4a24-b3c9-3571354928c0.png)
 
+
+
+
+###### CipherSechs 6 Word Plate 3x11
+
+![RENDER - Plate_3x11a](https://user-images.githubusercontent.com/97874862/149797430-c97df62a-203d-4291-90c8-66d0ac6c8c59.png)
+## USAGE
+
+![BIP0039 - 3x11_SAFE01](https://user-images.githubusercontent.com/97874862/149903312-62e8040c-0f25-4822-81f1-b1b70f6d0709.png)
 The first vertical column translates to the numbers ranging from 0-2 from the word list that consists of 4 digits. The first numeric digit of the mnemonic from the word list is counting down from 0 to 1 to 2.  This vertical column translates the first number of the word list consisting of 4 digits.<br/>
 **This is the 1st digit.**
 
@@ -34,3 +44,7 @@ The row below, and the next series of dots from left-to right (columns 2-11)tran
 
 The row below, and the next series of dots from left-to right (columns 2-11)translate to the numbers ranging from 0-9 from the word list consisting of 4 digits.<br/>
 **This is the 4th digit.**
+
+
+![BIP0039 - 3x11_SAFE02](https://user-images.githubusercontent.com/97874862/149903332-3bb9d049-8d69-414f-b4f7-37d79d16845f.png)
+###### An example of a completed backup on the CipherTag
