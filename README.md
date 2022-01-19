@@ -28,19 +28,23 @@ These are used to permanently store each word of your seed phrase using the proc
 ## Usage
 
 ![BIP0039 - 3x11_SAFE01](https://user-images.githubusercontent.com/97874862/149903312-62e8040c-0f25-4822-81f1-b1b70f6d0709.png)
+<br/>
+###### 1st Letter
 The first vertical column translates to the numbers ranging from 0-2 from the word list that consists of 4 digits. The first numeric digit of the mnemonic from the word list is counting down from 0 to 1 to 2.  This vertical column translates the first number of the word list consisting of 4 digits.<br/>
-**This is the 1st digit.**
-
+**This is the 1st digit corresponding to the 1st letter of the seed word.**
+<br/><br/>
+###### 2nd Letter
 The row below, and the next series of dots from left-to right (columns 2-11)translate to the numbers ranging from 0-9 from the word list consisting of 4 digits.<br/>
-**This is the 2nd digit.**
-
+**This is the 2nd digit corresponding to the 2nd letter of the seed word.**
+<br/><br/>
+###### 3rd Letter
 The row below, and the next series of dots from left-to right (columns 2-11)translate to the numbers ranging from 0-9 from the word list consisting of 4 digits.<br/> 
-**This is the 3rd digit.**
-
+**This is the 3rd digit corresponding to the 3rd letter of the seed word.**
+<br/><br/>
+###### 4th Letter
 The row below, and the next series of dots from left-to right (columns 2-11)translate to the numbers ranging from 0-9 from the word list consisting of 4 digits.<br/>
-**This is the 4th digit.**
-
-
+**This is the 4th digit corresponding to the 4th letter of the seed word.**
+<br/><br/>
 ![BIP0039 - 3x11_SAFE02](https://user-images.githubusercontent.com/97874862/149903332-3bb9d049-8d69-414f-b4f7-37d79d16845f.png)
 ###### An example of a completed backup on the CipherTag
 <br/><br/>
