@@ -80,4 +80,4 @@ See below photo for an illustrative explanation.
 <br/>
 © CipherSechs 2022<br/>
 CipherTag™, CipherSechs™ 6 Word Plate™, CipherSechs™ 12 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
-Patent Pending
+Aforementioned Products and/or Designs are Patent Pending
