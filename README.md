@@ -88,4 +88,4 @@ Aforementioned Products and/or Designs are Patent Pending<br/>
 <br/>
 _______________________________________________________________________________________________________________________________________________________
 
-![Signature - CipherSechs Definition](https://user-images.githubusercontent.com/97874862/150493122-bdf8aa4c-ed18-49d2-a52f-930baed2437c.png)
+![Signature - CipherSechs Definition](https://user-images.githubusercontent.com/97874862/150514959-49d230cf-449b-4a74-8c8f-c565b54d02b2.png)
