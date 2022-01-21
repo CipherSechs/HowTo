@@ -86,6 +86,5 @@ CipherCoin™ BIP38 PPPK,<br/>
 CipherLegacy™<br/>
 Aforementioned Products and/or Designs are Patent Pending<br/>
 <br/>
-_______________________________________________________________________________________________________________________________________________________
 
 ![Signature - CipherSechs Definition](https://user-images.githubusercontent.com/97874862/150514959-49d230cf-449b-4a74-8c8f-c565b54d02b2.png)
