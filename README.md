@@ -79,8 +79,9 @@ See below photo for an illustrative explanation.
 ###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
 <br/>
 © CipherSechs 2022<br/>
-CipherSechs 6-Word-Plate™ 4x10, 3x11, 3x11 OPS, 
-CipherSechs 12-Word-Plate™ 4x10, 3x11, 3x11 OPS, 
-CipherTag™ 4x10, 3x11, 3x11 OPS, 
-CipherCoin™ BIP38 PPPK, CipherLegacy™<br/>
+CipherSechs 6-Word-Plate™ 4x10, 3x11, 3x11 OPS,<br/>
+CipherSechs 12-Word-Plate™ 4x10, 3x11, 3x11 OPS,<br/>
+CipherTag™ 4x10, 3x11, 3x11 OPS,<br/> 
+CipherCoin™ BIP38 PPPK,<br/>
+CipherLegacy™<br/>
 Aforementioned Products and/or Designs are Patent Pending
