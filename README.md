@@ -85,3 +85,4 @@ CipherTag™ 4x10, 3x11, 3x11 OPS,<br/>
 CipherCoin™ BIP38 PPPK,<br/>
 CipherLegacy™<br/>
 Aforementioned Products and/or Designs are Patent Pending
+![Signature - CipherSechs Definition](https://user-images.githubusercontent.com/97874862/150493122-bdf8aa4c-ed18-49d2-a52f-930baed2437c.png)
