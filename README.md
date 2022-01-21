@@ -1,6 +1,6 @@
 # HowTo 
-**HowTo backup your 12, 18 or 24 word SEED PHRASE using the CipherTag and 12 Word Plates.<br/>
-Both products can be used to permanently backup your BIP0039 and/or SLIP0039 seed phrases**<br/>
+**HowTo backup your 12, 18 or 24 word SEED PHRASE on the 6-Word-Plate™, 12-Word-Plate™, CipherTag™ and CipherLegacy™ cold storage solutions.<br/>
+These can be used to permanently backup your BIP0039 and/or SLIP0039 seed phrases**<br/>
 <br/>
 <br/>
 **BIP0039** stands for Bitcoin Improvement Protocol 0039(BIP0039).  It describes the implementation of mnemonics(replacing 0’s and 1’s with a group of easy to remember words) for generation of deterministic cryptocurrency wallets.
@@ -21,7 +21,7 @@ These are used to permanently store each word of your seed phrase using the proc
 ###### CipherTag 3x11
 ![RENDER - Tag_3x11](https://user-images.githubusercontent.com/97874862/149795773-c98eccc4-ddb4-4a24-b3c9-3571354928c0.png)
 
-###### CipherSechs 6 Word Plate 3x11
+###### 12-Word-Plate 3x11
 
 ![RENDER - Plate_3x11a](https://user-images.githubusercontent.com/97874862/149797430-c97df62a-203d-4291-90c8-66d0ac6c8c59.png)
 <br/><br/>
@@ -61,7 +61,7 @@ Instead of having the 4 digit number for each seed word punched on a displayed n
 ###### CipherTag 3x11 OPS
 ![RENDER - Tag_3x11OPS](https://user-images.githubusercontent.com/97874862/149795891-a9bb6a87-a526-4ef6-969c-fc5ca4422c16.png)
 
-###### CipherSechs 3x11 OPS 12 Word Plate
+###### 12-Word-Plate 3x11 OPS
 
 ![RENDER - Plate_3x11OPSa](https://user-images.githubusercontent.com/97874862/149796749-d8183334-6476-4d9a-8d5f-4b48c856548e.png)
 <br/><br/><br/>
