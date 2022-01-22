@@ -1,6 +1,6 @@
 # HowTo 
 **HowTo backup your 12, 18 or 24 word SEED PHRASE on the 6-Word-Plate™, 12-Word-Plate™, CipherTag™ and CipherLegacy™ cold storage solutions.<br/>
-These can be used to permanently backup your BIP0039 and/or SLIP0039 seed phrases**<br/>
+These can be used to permanently backup your BIP0039 and/or SLIP0039 seed phrases.**<br/>
 <br/>
 <br/>
 ## Primer
@@ -12,13 +12,12 @@ These can be used to permanently backup your BIP0039 and/or SLIP0039 seed phrase
 <br/>
 <br/>
 The majority of crypto wallets available today follow the **BIP0039** standard wordlist.  It describes the implementation of mnemonics(replacing 0’s and 1’s with a group of easy to remember words) for generation of deterministic cryptocurrency wallets.<br/>
-The BIP0039 wordlist can be found on this link:<br/>
-https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+The BIP0039 wordlist can be found on this link: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 <br/>
 <br/>
 <br/>
 ## Description - 4x10
-There is a grid of 4 rows of 10 columns; hence the "4x10" name.  There are 6 of these grids on the 6-Word-Plate™, CipherTag™ and CipherLegacy™; 12 grids on the 12-Word-Plate™.
+There is a grid of 4 rows of 10 columns; hence the "4x10" name.  There are 6 of these grids on the 6-Word-Plate™ and CipherTag™; 12 grids on the 12-Word-Plate™.
 These are used to permanently mark the first four characters of your Seed Words using the process below.  To mark the seeds you can use a manual or an automatic center punch.  The 6-Word-Plate™(displayed below) employs a more robust method of marking Seed Words and requires a drill/drill press.  The 6-Word-Plate™ has laser etched countersunk holes to assist centering the drill bit.
 <br/>
 ###### 1st Letter
@@ -38,15 +37,17 @@ The 4th row shows the next series of numbered grids from left-to right translate
 **This is the 4th digit corresponding to the 4th letter of the seed word.**
 <br/>
 <br/>
-![BIP0039 - 4x10_SAFE](https://user-images.githubusercontent.com/97874862/149902227-91d056ea-b6e3-4e68-a1e9-450b368bcbc1.png)
 ###### An example of a completed backup on the 6-Word-Plate™
+
+![BIP0039 - 4x10_SAFE](https://user-images.githubusercontent.com/97874862/149902227-91d056ea-b6e3-4e68-a1e9-450b368bcbc1.png)
 <br/>
-
+###### A unique laser engraving process on the metal allows the user to actually mark(and remove later) their Seed Word. This make setting up and retrieving your Seed Words extremely easy and convenient. *The 6-Word-Plate is our first iteration of cold storage products, so unfortunately does not have the writeable laser feature.
 ![PHOTO - CipherTag Writing01](https://user-images.githubusercontent.com/97874862/150629183-a9b916ed-47e7-43dd-9024-6fa5ba99ede1.png)
-
+###### Gently rubbing the CipherTag™ with your fingers easily removes the pencil and permanent marker inscriptions on the metal.
 ![PHOTO - CipherTag Writing02](https://user-images.githubusercontent.com/97874862/150629185-58cf61f8-ad43-4013-b998-0a91e14b7328.png)
+###### The 12-Word-Plate™ with writing in both pencil and permanent marker.  [Video of writing pen/marker and removale of writing](https://www.minds.com/newsfeed/1331534407483265033)
 
-###### A unique laser engraving process on the metal allows the user to actually mark(and remove later) their Seed Word. This make setting up and retrieving your Seed Words extremely easy and convenient.
+![PHOTO - 12-Word-Plate Writing01](https://user-images.githubusercontent.com/97874862/150629195-71457f9a-a754-4480-8cef-cc432b80eb34.png)
 <br/>
 <br/>
 
