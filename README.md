@@ -91,7 +91,7 @@ The row below, and the next series of dots from left-to right (columns 2-11)tran
 
 ## Description - 3x11 OPS
 As mentioned above:
-There is a grid of 3 rows of 11(ergo 3x11) columns.  There are 6 of these grids on the CipherTag™ and 12 grids on the CipherSechs™ 12 Word Plates.
+There is a grid of 3 rows of 11 columns.  There are 6 of these grids on the CipherTag™ and 12 grids on the CipherSechs™ 12 Word Plates.
 These are used to permanently mark the first four characters of your Seed Words using the process below.  To mark the seeds you can use a manual or an automatic center punch.
 <br/><br/>
 However.. this method introduces "OpSec"; operational security - a security methodology to prevent sensitive information from getting into the wrong hands.
@@ -105,13 +105,14 @@ Instead of having the 4 digit number for each seed word punched on a displayed n
 ![RENDER - Plate_3x11OPSa](https://user-images.githubusercontent.com/97874862/149796749-d8183334-6476-4d9a-8d5f-4b48c856548e.png)
 <br/><br/>
 ## Usage
-In this case, an owner of the seed word may decide to shift the **cipher**; ie the punched/marked holes to the right 'x' amount of spaces, thereby obfuscating the actual seed word stored.  Only the owner of the wallet would know the correct 'x' amount to shift the pattern back to - to reference the correct seed word.  The cipher can be shifted by the **whole** word, or via **one digit**.<br/>
+In this case, an owner of the seed word may decide to shift the **cipher**; ie the punched/marked holes to the right 'x' amount of spaces, thereby obfuscating the actual seed word stored.  Only the owner of the wallet would know the correct 'x' amount to shift the pattern back to - to reference the correct seed word.  The cipher can be shifted by the **whole** word, or via **one digit**.<br/><br/>
+There is no specific option or marking available for the user to 'note' the amount the pattern is shifted to, we will leave that up to the user.  It is preferable not to show such information regardless.<br/>
 See below photo for an illustrative explanation.
 <br/>
 ###### Cipher shifted incrementally by WHOLE word
 ![BIP0039 - CipherShift01](https://user-images.githubusercontent.com/97874862/149953746-16514cf7-2e18-4410-8336-1159db226fdd.png)
 
-###### Cipher shifted incrementally by DIGIT only
+###### Cipher shifted incrementally by DIGIT only.  Using a pencil/marker on the CipherTag™/12-Word-Plate is helpful to mark/calculate the cipher 'shift' amount.
 ![BIP0039 - CipherShift02](https://user-images.githubusercontent.com/97874862/149953768-af4cb8da-2dce-4a2b-8540-c12cd8106d81.png)
 <br/><br/>
 ## DISCLAIMER
