@@ -19,7 +19,7 @@ https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 <br/>
 ## Description - 4x10
 There is a grid of 4 rows of 10 columns; hence the "4x10" name.  There are 6 of these grids on the 6-Word-Plate™, CipherTag™ and CipherLegacy™; 12 grids on the 12-Word-Plate™.
-These are used to permanently mark the first four characters of your Seed Words using the process below.  To mark the seeds you can use a manual or an automatic center punch.
+These are used to permanently mark the first four characters of your Seed Words using the process below.  To mark the seeds you can use a manual or an automatic center punch.  The 6-Word-Plate™(displayed below) employs a more robust method of marking Seed Words and requires a drill/drill press.  The 6-Word-Plate™ has laser etched countersunk holes to assist centering the drill bit.
 <br/>
 ###### 1st Letter
 The first row translates to the numbers ranging from 0-2 from the word list that consists of 4 digits. This first row translates the first number of the word list consisting of 4 digits.<br/>
