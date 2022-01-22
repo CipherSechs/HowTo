@@ -45,7 +45,7 @@ The 4th row shows the next series of numbered grids from left-to right translate
 ![PHOTO - CipherTag Writing01](https://user-images.githubusercontent.com/97874862/150629183-a9b916ed-47e7-43dd-9024-6fa5ba99ede1.png)
 ###### Gently rubbing the CipherTag™ with your fingers easily removes the pencil and permanent marker inscriptions on the metal.
 ![PHOTO - CipherTag Writing02](https://user-images.githubusercontent.com/97874862/150629185-58cf61f8-ad43-4013-b998-0a91e14b7328.png)
-###### The 12-Word-Plate™ with writing in both pencil and permanent marker.  [Video of writing pen/marker and removale of writing](https://www.minds.com/newsfeed/1331534407483265033)
+###### The 12-Word-Plate™ with writing in both pencil and permanent marker.  [Video of writing pen/marker and removal of writing](https://www.minds.com/newsfeed/1331534407483265033)
 
 ![PHOTO - 12-Word-Plate Writing01](https://user-images.githubusercontent.com/97874862/150629195-71457f9a-a754-4480-8cef-cc432b80eb34.png)
 <br/>
