@@ -41,6 +41,12 @@ The 4th row shows the next series of numbered grids from left-to right translate
 ![BIP0039 - 4x10_SAFE](https://user-images.githubusercontent.com/97874862/149902227-91d056ea-b6e3-4e68-a1e9-450b368bcbc1.png)
 ###### An example of a completed backup on the 6-Word-Plate™
 <br/>
+
+![PHOTO - CipherTag Writing01](https://user-images.githubusercontent.com/97874862/150629183-a9b916ed-47e7-43dd-9024-6fa5ba99ede1.png)
+
+![PHOTO - CipherTag Writing02](https://user-images.githubusercontent.com/97874862/150629185-58cf61f8-ad43-4013-b998-0a91e14b7328.png)
+
+###### A unique laser engraving process on the metal allows the user to actually mark(and remove later) their Seed Word. This make setting up and retrieving your Seed Words extremely easy and convenient.
 <br/>
 <br/>
 
